@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rie</h1>
+<h1 align="center">Hi 👋, I'm rie</h1>
 <h3 align="center">A passionate web developer from TR</h3>
 
-- 💬 Ask me about **angular, react, db**
+- 💬 Ask me about **everything about the web**
 
 - 📫 How to reach me **rie-aei@hotmail.com**
 
